@@ -19,7 +19,7 @@ PrivacyCloud is an early-stage startup based in Asturias and Madrid seriously di
 - We are a **TypeScript** shop.
 - We have a **solid testing culture** and we don't consider something to be completed if it doesn't have a good suite of integration and unit tests. You may even drive your development by using tests! ;D
 - We help each other with **code reviews** (via pull/merge requests).
-- Do you want to know more? take a look at our [public knowledge base in Notion](https://www.notion.so/privacycloud/PrivacyCloud-da4cabeab1a2474c8cfae98c0fe2094e)
+- Do you want to know more? take a look at our [public knowledge base in Notion](https://www.notion.so/privacycloud/PrivacyCloud-da4cabeab1a2474c8cfae98c0fe2094e).
 
 # How to apply
 
