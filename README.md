@@ -1,5 +1,6 @@
 # 👩‍💻 Trabaja con nosotros 👨‍💻
 
+
 ## ¿Qué hacemos en PrivacyCloud?
 
 Construimos **productos de software alrededor de los datos y la privacidad en Internet**. Tenemos apps móviles ([WeRule](https://werule.app)) o plugins de navegador ([Consent Manager](https://chrome.google.com/webstore/detail/consent-manager/gpkoajillfmlpnglbagpplnphadbfalh?hl=en)) para que la gente tome el control de sus datos y los aproveche en su beneficio. También construimos _Software as a Service_ dirigido a empresas para que puedan cumplir la legislación que existe en materia de privacidad y al mismo tiempo aprovechen de forma más honesta y productiva los datos de sus clientes.
