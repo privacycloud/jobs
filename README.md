@@ -17,7 +17,7 @@ Ofrecemos **todo lo que una empresa normal hoy en día debería ofrecer**: un bu
 
 ### ¿Qué buscamos?
 
-Habrás leído lo de “empresa en fase de expansión” muchas veces en diferentes ofertas de trabajo. Sin querer caer en el tópico, **en nuestro caso es totalmente cierto**. Acabamos de cerrar una [ronda de financiación](https://www.bbva.com/en/bbva-invests-in-spanish-startup-privacycloud/) y vamos a crecer en todos los sentidos. Los roles que estamos buscando en el equipo de ingeniería son los siguientes, añadidos como _issues_ dentro de este mismo repositorio:
+Habrás leído lo de “empresa en plena fase de expansión” muchas veces en diferentes ofertas de trabajo. Sin querer caer en el tópico, **en nuestro caso es totalmente cierto**. Acabamos de cerrar una [ronda de financiación](https://www.bbva.com/en/bbva-invests-in-spanish-startup-privacycloud/) y estamos creciendo en todos los sentidos. Los roles que estamos buscando en el equipo de ingeniería son los siguientes, añadidos como _issues_ dentro de este mismo repositorio:
 
 - [Ingeniero/a de Software](https://github.com/privacycloud/jobs/issues/3)
 - [Ingeniero/a de Software Senior](https://github.com/privacycloud/jobs/issues/4)
