@@ -22,5 +22,5 @@ Para el salario tomamos como referencia los rangos que puedes ver en la descripc
 Buscamos Ingenieros e Ingenieras de Software comprometidos con la calidad, gente activa que sepa trabajar en equipo y que nos ayuden a crecer en el plano técnico y humano. Independientemente de tu nivel de experiencia, no dejes de contactar con nosotros si te ves identificado con el proyecto y con nuestra filosofía de trabajo. Actualmente estos son los roles para los que tenemos posiciones abiertas en el equipo de ingeniería:
 
 - [Ingeniero/a de Software](https://github.com/privacycloud/jobs/issues/3) (Varias posiciones, de Junior a Senior)
-- [Líder de tecnología](https://github.com/privacycloud/jobs/issues/5)
+- [Líder de Tecnología](https://github.com/privacycloud/jobs/issues/5)
 
