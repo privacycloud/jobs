@@ -20,7 +20,7 @@ Somos una empresa **orientada a producto y realmente comprometida con la calida
 
 **Cambiamos la interacción entre las personas y las empresas:** También construimos *Software as a Service* para que las empresas generen una relación más honesta y productiva con sus clientes mientras cumplen con la normativa de privacidad.
 
-## "¿Cómo es trabajar en Privacy Cloud?"
+## ¿Cómo es trabajar en PrivacyCloud?
 
 Apostamos por una cultura inclusiva, directa y proactiva y para conseguirlo contamos con un entorno de trabajo amigable, cercano y flexible. Nuestra estrategia de crecimiento interno está muy vinculada al impulso del bienestar, la confianza y el desarrollo de talento, incluyendo una base de buen ambiente de trabajo, libertad de horarios, festivos a libre disposición, trabajo en remoto...
 
