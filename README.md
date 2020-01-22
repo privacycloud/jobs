@@ -18,7 +18,7 @@ Somos una empresa **orientada a producto y realmente comprometida con la calida
 
 **Promovemos una nueva relación con los datos y la privacidad**: Nuestras apps móviles ([WeRule](https://werule.app/)) y plugins de navegador ([Consent Manager](https://chrome.google.com/webstore/detail/consent-manager/gpkoajillfmlpnglbagpplnphadbfalh?hl=en)) son buena muestra de ello.
 
-**Cambiamos la interacción entre las personas y las empresas:** También construimos *Software as a Service* para que las empresas generen una relación más *honesta y productiva con sus clientes mientras cumplen con la normativa de privacidad.*
+**Cambiamos la interacción entre las personas y las empresas:** También construimos *Software as a Service* para que las empresas generen una relación más honesta y productiva con sus clientes mientras cumplen con la normativa de privacidad.
 
 ## "¿Cómo es trabajar en Privacy Cloud?"
 
