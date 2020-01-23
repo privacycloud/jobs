@@ -24,7 +24,7 @@ Somos una empresa **orientada a producto y realmente comprometida con la calida
 
 Apostamos por una cultura inclusiva, directa y proactiva y para conseguirlo contamos con un entorno de trabajo amigable, cercano y flexible. Nuestra estrategia de crecimiento interno está muy vinculada al impulso del bienestar, la confianza y el desarrollo de talento, incluyendo una base de buen ambiente de trabajo, libertad de horarios, festivos a libre disposición, trabajo en remoto...
 
-No tenemos fórmulas para definir una cultura de equipo perfecta porque todas las personas que forman parte de Privacy Cloud la construyen cada día. Es una mezcla perfecta de talento, experiencias e inquietudes diferentes que nos ayuda a crecer, así que podríamos decir que nuestra cultura crece, evoluciona y está tan viva como la gente que forme parte de ella. 
+No tenemos fórmulas para definir una cultura de equipo perfecta porque todas las personas que forman parte de PrivacyCloud la construyen cada día. Es una mezcla perfecta de talento, experiencias e inquietudes diferentes que nos ayuda a crecer, así que podríamos decir que nuestra cultura crece, evoluciona y está tan viva como la gente que forme parte de ella. 
 
 La palabra desarrollo sólo tiene sentido si es global: un proyecto sólo crece si quien está dentro lo hace con él. Una de nuestras líneas de trabajo es facilitar tu crecimiento personal y profesional y que nos ayudes, creciendo, a ser mejores cada día.
 
